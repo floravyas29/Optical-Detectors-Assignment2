@@ -2,8 +2,11 @@ Hubble Space Telescope Image Analysis:
 
 # Contents
 1.Cosmic Ray Removal
+
 2.Star-Finding
+
 3.Photometry
+
 4.Creating a Hertzsprung–Russell Diagram
 
 This project implements a complete astronomical image analysis designed to process Hubble Space Telescope (HST) images 
