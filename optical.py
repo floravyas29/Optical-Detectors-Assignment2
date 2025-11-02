@@ -271,7 +271,7 @@ def main():
     print("_"*50)
 
     # Configuration
-    data_dir = 'Data'
+    data_dir = "Data"
     f336w_dir = f"{data_dir}/F336W"
     f555w_dir = f"{data_dir}/F555W"
 
