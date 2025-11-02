@@ -79,8 +79,8 @@ for:
 | `photometry_catalog.csv` | Full catalog: IDs, positions, fluxes, magnitudes |
 | `hr_diagram.png` | Hertzsprung-Russell diagram |
 
+'''
 # Conclusion
 
--This pipeline transforms raw HST images into a scientifically valuable HR diagram through systematic cosmic ray removal, source detection, and photometry. 
--The modular design makes it adaptable for different datasets while maintaining code clarity and reproducibility. 
--The resulting analysis reveals stellar population characteristics that provide insights into the age, composition, and evolutionary state of the observed star cluster, demonstrating the power of automated astronomical image processing.
+This pipeline transforms raw HST images into a scientifically valuable HR diagram through systematic cosmic ray removal, source detection, and photometry. The modular design makes it adaptable for different datasets while maintaining code clarity and reproducibility. The resulting analysis reveals stellar population characteristics that provide insights into the age, composition, and evolutionary state of the observed star cluster, demonstrating the power of automated astronomical image processing.
+'''
