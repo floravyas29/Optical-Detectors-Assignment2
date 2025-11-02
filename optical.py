@@ -271,7 +271,7 @@ def main():
     print("_"*50)
 
     # Configuration
-    data_dir = '/content/drive/MyDrive/hst-data'
+    data_dir = 'Data'
     f336w_dir = f"{data_dir}/F336W"
     f555w_dir = f"{data_dir}/F555W"
 
